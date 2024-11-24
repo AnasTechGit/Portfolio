@@ -1,4 +1,4 @@
-# Portfolio : Project 1 : IMDb's Top 1000 Movie Rankings
+# Portfolio : Project 1 : Top 1000 IMDb Movies Dataset
 
 This dataset showcases top-rated movie attributes:
 - Movie Name: Title of the movie
