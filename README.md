@@ -1,13 +1,6 @@
-# Portfolio : Project 1 : Top 1000 IMDb Movies Dataset
+# Portfolio : Project 1 : Online Retail Ecommerce Dataset
 
-This dataset showcases top-rated movie attributes:
-- Movie Name: Title of the movie
-- Year of Release: Release year of the movie
-- Watch Time: Total duration of the movie
-- Movie Rating: IMDb user rating
-- Metascore of Movie: Critic scores from renowned critics
-- Gross Earnings: Worldwide box office earnings
-- Votes: Total number of IMDb user votes
-- Description: Brief summary of the movie
+This project is based on a publicly available dataset provided by the UCI Machine Learning Repository, containing real transactional data from a UK-based online retail company. The data spans from December 2010 to December 2011 and includes information on customer purchases of unique gift items. The project focuses on applying data engineering techniques to clean, transform, and extract insights from the dataset, simulating real-world e-commerce data processes.
+
 
 
