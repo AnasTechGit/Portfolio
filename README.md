@@ -5,12 +5,12 @@ The project focuses on applying data engineering techniques to clean, transform,
 
 Here are the columns present in the dataset:
 
-InvoiceNo – Invoice number identifying each transaction
-StockCode – Unique code representing each product
-Description – Detailed description of the product
-Quantity – Number of units purchased for each product
-InvoiceDate – Date and time when the transaction was recorded
-UnitPrice – Price per unit of the product (in GBP)
-CustomerID – Unique identifier for each customer
-Country – Country where the customer is located
+- InvoiceNo – Invoice number identifying each transaction
+- StockCode – Unique code representing each product
+- Description – Detailed description of the product
+- Quantity – Number of units purchased for each product
+- InvoiceDate – Date and time when the transaction was recorded
+- UnitPrice – Price per unit of the product (in GBP)
+- CustomerID – Unique identifier for each customer
+- Country – Country where the customer is located
 
