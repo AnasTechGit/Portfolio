@@ -14,3 +14,4 @@ Here are the columns present in the dataset:
 - CustomerID – Unique identifier for each customer
 - Country – Country where the customer is located
 
+Dataset link: https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo?resource=download
